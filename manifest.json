@@ -14,5 +14,7 @@
 		"res/ui/lib/vue.js": "CMMTrj5gGwOAXBeFi7kNokqowkzbeL8ydAJy39ewjkQ=",
 		"res/ui/main.css": "eMJ1jCo/F/lHKZCPGYM0KzTYwJAQyo6JjqNe45gysuo=",
 		"res/ui/main.js": "KJJnx5lq9Y0nRJomAXhYgBWz7XEmHlAZWTJE8wAMp/E="
-	}
+	},
+	"publicKey": "MCowBQYDK2VwAyEAY31fpV8rIvZ3zGJE6nqoLXcI27/C3xmjDWV7PDavK4w=",
+	"signature": "RKmtLfdu4NbyWu4wBbJIX50EsjOYNWDBbihI6cR7/tPrT3Lsp9cffyseEATq57CrjHLJUnAkiUNurKJRJthqBg=="
 }
