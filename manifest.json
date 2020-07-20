@@ -4,9 +4,9 @@
 		"lib/index.js": "B1K15a5PhoFImULpfUR04m1lyNVUltnZEnl+AzULPp8=",
 		"mod.json": "iUVJTQpZKXcn1QKa80sBjSL92YdpG2RgIl8nuI7Pcqo=",
 		"README.md": "IgKIlaHLfTIurIe2VjO2TRErmOtDoCZkNQQz8vBWvj8=",
-		"res/region/eu/db.json": "cwfHpn6uNj2w3mYFeRHGDY30XtZCjZiPArfgiRvUWck=",
+		"res/region/eu/db.json": "djNF3H2cHXaCut/4z/nFTE61j3CTQdtndA5l+EZquZM=",
 		"res/region/eu/item_vehicle.json": "9JcNjnwQ653TmlOq62fUxIlp2ONEs5iu6NiRWJ9EEK4=",
-		"res/region/eu/name_item.json": "OQu1epF7t/bD3PAyABfJGLlDEA+JZbHVrEhkjMd2vmE=",
+		"res/region/eu/name_item.json": "WeqE2y5Q9FeXBCTWxqGZQ9Mqgrdc5bbliTDdsCgDT3c=",
 		"res/region/eu/name_vehicle.json": "E2J6Tpx16UKykZNWrzQnPrFy1dTp/prvXQS2lvkXRCs=",
 		"res/region/eu/vehicles.json": "f2fg1Vt50sdaKPxEdIb82AyukkmQT31/dqhtHEGe3Hw=",
 		"res/ui/index.html": "IL8RsPHvszpL1zgggu28HDBrMXVF8Il4z+Fs5FyjGiI=",
@@ -16,5 +16,5 @@
 		"res/ui/main.js": "KJJnx5lq9Y0nRJomAXhYgBWz7XEmHlAZWTJE8wAMp/E="
 	},
 	"publicKey": "MCowBQYDK2VwAyEAY31fpV8rIvZ3zGJE6nqoLXcI27/C3xmjDWV7PDavK4w=",
-	"signature": "j313v7otKPeaNr4ShTi9ynea1GXOhQTDN8OmfxR8nTAdfSn9rpRX0hf75EUg/E5jl3JbBtAdpi5+S7p7iXoCAw=="
+	"signature": "Cdz5FPLlOrdFtmwY65YEwrc7+HiPJKdFKVmPCP1i42I+yWDrAt/b4P7vtY8gtubWrD9cHxkxtW1QwuUFiu2bDQ=="
 }
