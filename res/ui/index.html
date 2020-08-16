@@ -1,9 +1,8 @@
 <html>
 	<head>
+		<script src="/lib/coherent.js"></script>
 		<script>
-			window.addEventListener('error', function(e) {
-				_tera_client_proxy_.alert('[Elin Magic] Error: ' + e.message)
-			})
+			window.addEventListener('error', function(e) { alert('[Elin Magic] Error: ' + e.message) })
 
 			window.onload = function() {
 				_tera_client_proxy_.resize_to(350, 700)
