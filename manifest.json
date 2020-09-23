@@ -4,11 +4,11 @@
 		"lib/index.js": "B1K15a5PhoFImULpfUR04m1lyNVUltnZEnl+AzULPp8=",
 		"mod.json": "iUVJTQpZKXcn1QKa80sBjSL92YdpG2RgIl8nuI7Pcqo=",
 		"README.md": "IgKIlaHLfTIurIe2VjO2TRErmOtDoCZkNQQz8vBWvj8=",
-		"res/region/eu/db.json": "Q3i/vRRIi+t7KcxJ/1O36M+pJfiN+GLp48Emf3VO5AQ=",
-		"res/region/eu/item_vehicle.json": "YkGzmS915vPPB4lYn9zLZM6sKLAXCxjvEYAZ8h2943g=",
-		"res/region/eu/name_item.json": "d0Mgo3ioDj1vw+YK75D0AyS3ietoEUvN5Q0nydYznuc=",
-		"res/region/eu/name_vehicle.json": "+/dY46+sDXTVdkqxew4u5YtLP1KU0IbVHu+y3A22snc=",
-		"res/region/eu/vehicles.json": "AkBKB6oX8yceTkx8lHodhGPu6axv2l0I4iILKQUyuRU=",
+		"res/region/eu/db.json": "FwF1jFRH7QavCJhJJnCmdVNTftRdDA/KexN0qkKGFKk=",
+		"res/region/eu/item_vehicle.json": "nvHluh32avIYbgBIgO3I7l0gu9+DDU3Ph7vuEy8AX9U=",
+		"res/region/eu/name_item.json": "/sHYG28bNIVSBPRrEIkVIbAA46YJ8sdUAmC/PsGIpEA=",
+		"res/region/eu/name_vehicle.json": "aTa5lqyFSvl86U71tVzaeXmq1rYgrNrJkon64736wiM=",
+		"res/region/eu/vehicles.json": "DSrthJE2vAFeyivJF1jM/ho8VfVDKtUhI9NjcA6hsrw=",
 		"res/ui/index.html": "My3nsGWYPAajBTzXmWJTy2cNh5XDzgheF4U81YYqF+I=",
 		"res/ui/lib/coherent.js": "OZGmTqxpalu4cw9zFE+RGRwA070PCPJRFGNzGfNRDjQ=",
 		"res/ui/lib/jquery-3.2.1.min.js": "hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=",
@@ -17,5 +17,5 @@
 		"res/ui/main.js": "KJJnx5lq9Y0nRJomAXhYgBWz7XEmHlAZWTJE8wAMp/E="
 	},
 	"publicKey": "MCowBQYDK2VwAyEAY31fpV8rIvZ3zGJE6nqoLXcI27/C3xmjDWV7PDavK4w=",
-	"signature": "4POoL0spj6lRQllCazHXUJ92TRweEsXfXj2CcuUPpRV8ignVYMHAIBg74gLASjx16jWAPOSdAY9aZmRvPi2/AQ=="
+	"signature": "idqxEeEeIkKv03Y+n0rhhrIOMobvrfcf3+1goqiUzHHT0EcYg84qMHItv93EH4QZpus+FSPd/zxCG/HA7lkSAQ=="
 }
